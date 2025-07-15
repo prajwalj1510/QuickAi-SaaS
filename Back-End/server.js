@@ -22,6 +22,10 @@ app.use(requireAuth())
 app.use('/api/ai',aiRouter)
 app.use('/api/user',userRouter)
 
+app.get('/',(req,res)=>{
+    res.send('Server is Live!')
+})
+
 app.listen(PORT, () => {
     console.log(`Server Running on PORT: ${PORT}`);
 
