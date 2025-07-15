@@ -96,15 +96,17 @@ CLIPDROP_API_KEY=your_clipdrop_api_key
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
+```
+------
 
 **🧪 API Plan Insights**
-Free Plan (20 Credits): Limited generation/removal features.
+**Free Plan (20 Credits)**: Limited generation/removal features.
+**Subscription Plan**: Unlocks full usage and scalability for users.
 
-Subscription Plan: Unlocks full usage and scalability for users.
-
+------
 **📌 Project Goals**
 Build a scalable AI-integrated SaaS product.
-Learn authentication, cloud storage, and modern full stack workflows.
+Learn authentication, cloud storage, and modern full-stack workflows.
 Solve real problems using content automation and image intelligence.
 
 **🤝 Connect With Me**
