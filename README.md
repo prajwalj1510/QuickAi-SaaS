@@ -105,10 +105,12 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ------
 **📌 Project Goals**
-Build a scalable AI-integrated SaaS product.
-Learn authentication, cloud storage, and modern full-stack workflows.
-Solve real problems using content automation and image intelligence.
+<ul style = "list-type: none;">
+<li>Build a scalable AI-integrated SaaS product.</li>
+<li>Learn authentication, cloud storage, and modern full-stack workflows.</li>
+<li>Solve real problems using content automation and image intelligence.</li>
+</ul>
 
-**🤝 Connect With Me**
-💼 LinkedIn [LinkedIn](https://www.linkedin.com/in/prajwalj1510/)
+**🤝 Connect With Me** <br/>
+💼 LinkedIn [LinkedIn](https://www.linkedin.com/in/prajwalj1510/) <br/>
 🐙 GitHub [Github](https://github.com/prajwalj1510)
